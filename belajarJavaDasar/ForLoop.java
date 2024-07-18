@@ -1,12 +1,9 @@
 public class ForLoop {
     public static void main(String[] args) {
-        
-        var counter = 1;
+        // perulangan dengan kondisi             
 
-        for (; counter <= 10 ;){
+        for (var counter = 1; counter <= 10 ;counter++){
             System.out.println("perulanagn" + counter);
-
-            counter++;
         }
     }
     
