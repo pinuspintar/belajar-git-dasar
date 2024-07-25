@@ -1,2 +1,2 @@
-# belajar-git-dasar
-git dasar
+# belajar-java-dasar
+java dasar
