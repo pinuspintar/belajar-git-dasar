@@ -2,7 +2,7 @@ public class MethodParameter {
     public static void main(String[] args) {
         
         sayRafi("Rafi", "aziz");
-        sayRafi("Syafa", "Azzahra");
+        sayRafi("Abdillah", "Nurwahid");
 
     }
     
